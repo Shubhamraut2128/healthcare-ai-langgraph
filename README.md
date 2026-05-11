@@ -248,10 +248,3 @@ Report Agent
 
 Shubham Raut
 
-* LinkedIn: https://www.linkedin.com/in/shubham-raut-37682b23a/
-
----
-
-# 📄 License
-
-This project is for educational and research purposes only.
