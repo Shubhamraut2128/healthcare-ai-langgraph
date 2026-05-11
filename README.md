@@ -79,17 +79,13 @@ Tesseract OCR
 Ollama / Groq
 Pillow
 
----
-📦 Installation
-Clone Repository
-git clone https://github.com/yourusername/healthcare-ai-langgraph.git
 
 ---
 cd healthcare-ai-langgraph
 🔹 Create Virtual Environment
 Windows
 python -m venv venv
----
+
 venv\Scripts\activate
 🔹 Install Dependencies
 pip install -r requirements.txt
@@ -128,6 +124,7 @@ http://localhost:8501
 ✅ Detect Disease
 ✅ Generate AI Medical Summary
 ✅ Retrieve Medical Knowledge using RAG
+
 ---
 📚 Example Diseases Supported
 Pneumonia
